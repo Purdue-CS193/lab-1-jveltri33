@@ -1,5 +1,12 @@
 # Joey's first CS193 Lab
 
+Some of my favorite things about Purdue:
+- The sheer number of opportunities, both social and academic
+- The feel of the campus
+- My classes
+- The dining courts
+- My residence hall facilities
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
